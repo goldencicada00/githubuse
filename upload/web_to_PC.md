@@ -1,4 +1,5 @@
-# 從
+# 從`github網頁`上傳更新到`電腦資料夾`
+###  支援情況:`github網頁`有更新；`電腦資料夾`無更新
 1. `cd 你的專案資料夾`
 2. `git status`         # 檢查是否乾淨（nothing to commit, working tree clean）
 3. `git branch --show-current`         # 看目前分支，通常是 main
